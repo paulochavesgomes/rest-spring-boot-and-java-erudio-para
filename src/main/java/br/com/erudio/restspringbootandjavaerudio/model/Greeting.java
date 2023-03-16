@@ -1,4 +1,4 @@
-package br.com.erudio.restspringbootandjavaerudio;
+package br.com.erudio.restspringbootandjavaerudio.model;
 
 public class Greeting {
     private final long id;
