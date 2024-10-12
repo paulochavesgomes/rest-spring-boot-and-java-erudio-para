@@ -1,1 +1,14 @@
+br\com\erudio\restspringbootandjavaerudio\math\SimpleMath.class
+br\com\erudio\restspringbootandjavaerudio\exceptions\ExceptionResponse.class
+br\com\erudio\restspringbootandjavaerudio\controller\PersonController.class
+br\com\erudio\restspringbootandjavaerudio\repository\PersonRepository.class
+br\com\erudio\restspringbootandjavaerudio\service\PersonServices.class
+br\com\erudio\restspringbootandjavaerudio\controller\MathController.class
+br\com\erudio\restspringbootandjavaerudio\model\Person.class
+br\com\erudio\restspringbootandjavaerudio\exceptions\ResourceNotFoundException.class
+br\com\erudio\restspringbootandjavaerudio\model\Greeting.class
+br\com\erudio\restspringbootandjavaerudio\mapper\DozerMapper.class
+br\com\erudio\restspringbootandjavaerudio\data\vo\PersonVO.class
 br\com\erudio\restspringbootandjavaerudio\Application.class
+br\com\erudio\restspringbootandjavaerudio\converter\NumberConverter.class
+br\com\erudio\restspringbootandjavaerudio\exceptions\CustomizedResponseEntityExceptionHandler.class
